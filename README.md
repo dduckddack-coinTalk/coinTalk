@@ -8,7 +8,7 @@
 ```
 # 노션 링크
 
-[노션 바로가기]()
+[노션 바로가기](https://sprinkle-harmony-6dc.notion.site/SR-4ba2051778e14db6b845284ebb0bff17)
 
 
 # 배포 링크
