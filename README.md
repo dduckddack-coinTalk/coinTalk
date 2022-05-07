@@ -6,7 +6,7 @@
 3. 기술발표
 4. 마무리
 ```
-# 노션 링크
+# 프로젝트 노션 링크
 
 [노션 바로가기](https://sprinkle-harmony-6dc.notion.site/SR-4ba2051778e14db6b845284ebb0bff17)
 
@@ -22,6 +22,10 @@
 ```
 코인에 대한 실시간 가격 / 차트정보를 확인하고 해당 코인에 대한 채팅방을 만들고 `사용자들끼리 대화`를 할 수 있는 웹페이지입니다.
 ```
+
+### 아키텍쳐
+<img src="https://user-images.githubusercontent.com/59411545/167249131-9d4c0484-6864-409a-a907-c63f02da10ff.png" widht="400px" />
+
 
 
 ###### 만든이
