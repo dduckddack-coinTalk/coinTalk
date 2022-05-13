@@ -20,12 +20,11 @@
 
 ### 💰 coinTalk
 ```
-코인에 대한 실시간 가격 / 차트정보를 확인하고 해당 코인에 대한 채팅방을 만들고 `사용자들끼리 대화`를 할 수 있는 웹페이지입니다.
+코인에 대한 실시간 가격 / 차트정보를 확인할 수 있고 차트에 드로잉툴을 이용해 이미지를 만들 수 있고 차트데이터를 저장하는 기능을 제공하고 채팅방에 공유하며 커뮤니케이션 할 수 있는 프로그램입니다.
 ```
 
 ### 아키텍쳐
-<img src="https://user-images.githubusercontent.com/59411545/167249131-9d4c0484-6864-409a-a907-c63f02da10ff.png" widht="400px" />
-
+<img src="https://user-images.githubusercontent.com/59411545/168255526-dd05aabf-9ae4-4354-bb06-878103b6c5e3.png" widht="400px" />
 
 
 ###### 만든이
@@ -53,7 +52,7 @@
     <tr>
         <td align="center">Front</td>
         <td align="center">User Domain</td>
-        <td align="center">Chat Domain</td>
-        <td align="center">Gateway,Kafka,Slack Domain</td>
+        <td align="center">Chat, News Domain</td>
+        <td align="center">Gateway,Kafka,Slack,Data Lake,Paper Domain</td>
     </tr>
 </table>
