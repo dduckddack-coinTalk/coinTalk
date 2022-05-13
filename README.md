@@ -15,6 +15,10 @@
 
 [코인톡 바로가기](https://cointalk.wachsenhaus.com)
 
+# 피그마 링크
+
+[피그마 바로가기](https://www.figma.com/file/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?node-id=66%3A1879)
+
 
 # 프로그램 소개
 
