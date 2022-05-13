@@ -17,7 +17,7 @@
 
 # 피그마 링크
 
-[피그마 바로가기](https://www.figma.com/file/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?node-id=66%3A1879)
+[피그마 바로가기](https://www.figma.com/proto/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?page-id=0%3A1&node-id=85%3A2898&viewport=241%2C48%2C0.35&scaling=scale-down&starting-point-node-id=66%3A1226)
 
 
 # 프로그램 소개
