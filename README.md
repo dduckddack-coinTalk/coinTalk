@@ -7,6 +7,38 @@
 4. 기술발표
 5. Q&A
 ```
+#
+###### 만든이
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/59411545?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/57323359?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/73471529?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/53042885?v=4" /></a>
+        </td>  
+    </tr>
+    <tr>
+        <td align="center">최영훈(팀장)</td>
+        <td align="center">박철훈</td>
+        <td align="center">유하얀</td>
+        <td align="center">김영수</td>
+    </tr>
+    <tr>
+        <td align="center">Front</td>
+        <td align="center">User Domain</td>
+        <td align="center">Chat, News Domain</td>
+        <td align="center">Gateway,Kafka,Slack,Data Lake,Paper Domain</td>
+    </tr>
+</table>
+
+
 # 프로그램 소개
 
 ### 💰 coinTalk
@@ -168,32 +200,3 @@ rsocket
 
 
 
-###### 만든이
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/59411545?v=4" /></a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/57323359?v=4" /></a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/73471529?v=4" /></a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/"><img  width="100px" src="https://avatars.githubusercontent.com/u/53042885?v=4" /></a>
-        </td>  
-    </tr>
-    <tr>
-        <td align="center">최영훈</td>
-        <td align="center">박철훈</td>
-        <td align="center">유하얀</td>
-        <td align="center">김영수</td>
-    </tr>
-    <tr>
-        <td align="center">Front</td>
-        <td align="center">User Domain</td>
-        <td align="center">Chat, News Domain</td>
-        <td align="center">Gateway,Kafka,Slack,Data Lake,Paper Domain</td>
-    </tr>
-</table>
